@@ -19,3 +19,4 @@
 - [ ] choosing input type e.g. JSON, normal object
 - [ ] choosing animation tool
 - [ ] setting up JS base
+- [ ] NextJS tutorial
