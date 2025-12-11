@@ -9,6 +9,7 @@
 
 ### Tools
 - [ ] read docs
+- [ ] React Three Fiber
 
 ## Implementation
 - [ ] set up NextJS 
