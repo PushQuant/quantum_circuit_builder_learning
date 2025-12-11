@@ -1,15 +1,17 @@
-# TODOs for the quantum circuit builder
+# TODOs for the Bloch Sphere builder
 
 ## Preparation
 ### Brainstorm Ideas
-- [ ] Bloch Sphere integration?
-- [ ] use already existing code from Website?
-- [ ] IBM as inspiration?
-- [ ] scope? 
+- Bloch Sphere, no quantum circuit
+- IBM / BlockSphereSim as inspiration
+- scope: take input (vector or modifications) and visualize
+- only front end 
+- visualization
 
 ### Tools
+- three.js
+- React Three Fiber
 - [ ] read docs
-- [ ] React Three Fiber
 
 ## Implementation
 - [ ] set up NextJS 
