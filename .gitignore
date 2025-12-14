@@ -1,0 +1,44 @@
+# Node / Bun / PNPM
+node_modules/
+.pnpm-store/
+.npm/
+
+# Next.js build output
+.next/
+out/
+dist/
+
+# Testing & coverage
+coverage/
+*.lcov
+
+# Environment & secrets
+.env
+.env.*
+!.env.example
+
+# Logs & debug
+logs/
+*.log
+*.log.*
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# TypeScript
+*.tsbuildinfo
+
+# Misc caches
+.turbo/
+.vercel/
+.eslintcache
+.stylelintcache
+
